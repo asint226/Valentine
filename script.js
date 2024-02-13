@@ -43,11 +43,11 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No pr",
-    "Thel Thel ka ll",
-    "Thel Thel ka ll, lote pr",
-    "Please Thel Thel ly Pls :(",
-    "Yat Set Pr nae Thel Thel ly ka ll",
-    "Ngo mr nw, hoon....:(",
+    "Please...",
+    "lote pr, please",
+    "Please Please Pls..... :(",
+    "Yat Set Pr nae....:'(",
+    "Ngo mr nw....:(",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
